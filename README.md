@@ -3,8 +3,9 @@
 Healthcare Performance Marketing Website.
 
 ## Tech Stack
+
 - React 19 + TypeScript + Vite
-- Tailwind CSS
+- Tailwind CS
 - Express (Production Server)
 
 ## Getting Started
