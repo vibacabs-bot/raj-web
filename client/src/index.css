@@ -876,7 +876,7 @@ iframe.hero-video { border: 0; width: 100%; aspect-ratio: 608 / 1080; border-rad
 .screenshot-button { position: relative; display: block; width: 100%; padding: 0; border: 0; color: inherit; text-align: left; font: inherit; background: transparent; cursor: zoom-in; }
 .screenshot-button:focus-visible { outline: 3px solid #26A69A; outline-offset: 4px; border-radius: 12px; }
 .screenshot-button .proof-caption { padding-bottom: 3px; }
-.seo-card .screenshot-button img { width: 100%; height: 330px; max-height: none; object-fit: contain; object-position: center; background: #F4FAF9; }
+.seo-card .screenshot-button img { width: 100%; height: 240px; max-height: none; object-fit: contain; object-position: center; background: #F4FAF9; }
 .seo-card .screenshot-button > span { left: 14px; bottom: 14px; }
 .feedback-marquee { overflow-x: auto; overflow-y: hidden; overscroll-behavior-x: contain; scrollbar-width: none !important; -ms-overflow-style: none !important; touch-action: pan-x; }
 .feedback-image { position: relative; flex: 0 0 240px; border: 0; cursor: zoom-in; }
@@ -1223,7 +1223,7 @@ iframe.hero-video { border: 0; width: 100%; aspect-ratio: 608 / 1080; border-rad
   .lightbox-title-badge { font-size: 12px; padding: 4px 8px; }
   .lightbox-counter { font-size: 12.5px; }
   .lightbox-toolbar { right: 10px; left: 10px; }
-  .seo-card .screenshot-button img { height: 220px; }
+  .seo-card .screenshot-button img { height: 200px; }
 }
 
 
@@ -1243,7 +1243,7 @@ iframe.hero-video { border: 0; width: 100%; aspect-ratio: 608 / 1080; border-rad
   .strategy-icon { width: 32px; height: 32px; }
   .floating-call { right: 10px; bottom: calc(10px + env(safe-area-inset-bottom, 0px)); padding: 10px 15px; font-size: 14px; }
   .hero-info-badge { font-size: 13.5px; padding: 9px 14px; }
-  .seo-card .screenshot-button img { height: 180px; }
+  .seo-card .screenshot-button img { height: 160px; }
 }
 
 @keyframes slideDownMenu {
