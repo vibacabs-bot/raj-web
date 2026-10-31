@@ -94,8 +94,8 @@ const specialties = [
 
 const advantages = [
   [
-    "500+ Clients Trust Us",
-    "We have successfully worked with 2500+ doctors, clinics & hospitals across India, generating consistent bookings.",
+    "2500+ Clients Trust Us",
+    "We have successfully worked with 500+ doctors, clinics & hospitals across India, generating consistent bookings.",
     Users,
     "🤝",
     "anim-adv-shake",
